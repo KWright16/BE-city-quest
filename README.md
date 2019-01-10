@@ -149,5 +149,5 @@ Front end app built using react native:
 https://github.com/KWright16/FE-city-quest
 
 Font end admin webpage built using react:
-https://github.com/KWright16/FE-city-quest-admin
+https://github.com/KWright16/FE-CQ-Admin
 
